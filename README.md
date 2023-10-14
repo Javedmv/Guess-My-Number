@@ -2,14 +2,17 @@
 A simple Guess the Number game implemented in JavaScript.
 
 -Overview
+
 -Features
 
-#overview
+#Overview
+
 This is a simple game where the player has to guess a random number within a specified range.
 The game provides feedback to the player after each guess, letting them know if they need to guess higher or lower.
 The objective is to guess the correct number with the fewest attempts.
 
 #Features
+
 1. You will see the game interface, which includes:
    - Input field to enter your guess.
    - A "Submit" button to submit your guess.
